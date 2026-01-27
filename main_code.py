@@ -31,13 +31,15 @@ def calcular_horas_extra(salario_bruto, horas_extras_trabalhadas):
 
 
 salario_bruto = float(input("Digite seu salário bruto do trabalhador: R$ "))
-horas_extras_trabalhadas = int(input("Digite o número de horas extras trabalhadas no mês: "))
+horas_extras_trabalhadas = int(
+    input("Digite o número de horas extras trabalhadas no mês: "))
 
 desconto_inss = calcular_inss(salario_bruto)
 salario_liquido = salario_bruto - desconto_inss
 
 desconto_irrf = calcular_irrf(salario_liquido)
-provento_horas_extras = calcular_horas_extra(salario_bruto, horas_extras_trabalhadas)
+provento_horas_extras = calcular_horas_extra(
+    salario_bruto, horas_extras_trabalhadas)
 
 salario_final = salario_liquido - desconto_irrf + provento_horas_extras
 
