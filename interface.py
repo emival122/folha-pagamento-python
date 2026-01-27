@@ -247,7 +247,7 @@ Label(f_resumo, text="LÍQUIDO:", bg="white", font=(
 lbl_final.grid(row=5, column=1, sticky="e")
 
 # Botões de Ação
-f_btns = Frame(root, bg=COR_SECUNsDARIA)
+f_btns = Frame(root, bg=COR_SECUNDARIA)
 f_btns.pack(pady=30)
 
 Button(f_btns, text="CALCULAR", command=atualizar_resumo, bg=COR_ACENTO, fg="white", font=(
