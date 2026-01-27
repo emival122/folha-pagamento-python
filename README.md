@@ -5,13 +5,16 @@
 ![Repo Size](https://img.shields.io/github/repo-size/emival122/folha-pagamento?style=flat-square)
 
 <p align="center">
-  <img src="./assets/screenshot_sistema.png" alt="Interface do Sistema" width="800px">
+  <h3>🖥️ Interface do Sistema</h3>
+  <img src="./assets/screenshot_sistema.png" alt="Interface do Sistema" width="750px">
 </p>
 
 <p align="center">
-  <img src="./assets/holerite.png" alt="Holerite Gerado" width="600px">
+  <h3>📄 Holerite Gerado (PDF)</h3>
+  <img src="./assets/holerite.png" alt="Holerite Gerado" width="750px">
 </p>
 
+---
 ---
 ---
 
