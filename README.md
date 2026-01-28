@@ -69,4 +69,4 @@ Este projeto está sob a **Licença MIT**. Sinta-se à vontade para utilizar par
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/emival122/folha-pagamento.git](https://github.com/emival122/folha-pagamento.git)
+   git clone [https://github.com/emival122/folha-pagamento-python.git](https://github.com/emival122/folha-pagamento-python.git)
