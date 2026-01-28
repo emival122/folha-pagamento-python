@@ -1,6 +1,6 @@
 # 📖 Guia do Usuário - Folha de Pagamento
 
-Este manual orienta como utilizar o sistema PrimeSystems para cálculo de proventos e geração de holerites.
+Este manual orienta como utilizar o sistema Payroll Pro para cálculo de proventos e geração de holerites.
 
 ## 🛠️ Primeiros Passos
 Ao abrir o sistema, você verá uma interface dividida em três partes: **Cadastro**, **Resumo** e **Ações**.
