@@ -125,7 +125,8 @@ def gerar_pdf():
         return
 
     if not d['nome'] or not d['cpf'] or not d['cargo']:
-        messagebox.showwarning("Atenção", "Preencha Nome, CPF e Cargo.")
+        messagebox.showwarning(
+            "Atenção", "Preencha todos os campos obrigatórios.")
         return
 
     h = calcular_horas_extra(d['salario'], d['horas'])
@@ -161,7 +162,7 @@ adicionar_icone(root)
 
 header = Frame(root, bg=COR_PRIMARIA, height=100)
 header.pack(fill="x")
-Label(header, text="WageCore System", bg=COR_PRIMARIA,
+Label(header, text="Payroll Pro System", bg=COR_PRIMARIA,
       fg="white", font=("Helvetica", 27, "bold")).pack(pady=30)
 
 main = Frame(root, bg=COR_SECUNDARIA)
