@@ -20,6 +20,5 @@ Clique no botão **CALCULAR**. O sistema atualizará instantaneamente o painel *
 ### 3. Gerando o Holerite (PDF)
 Após calcular, clique em **GERAR PDF**.
 - O arquivo será salvo na pasta raiz do projeto com o nome: `Holerite_NomeDoFuncionario.pdf`.
-- **Nota:** Certifique-se de que a logomarca da empresa esteja na pasta `assets/` para que apareça no documento.
 
 ---
